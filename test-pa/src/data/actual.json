@@ -1,0 +1,56 @@
+{
+    "actual": [
+        {
+            "key": 1,
+            "id": 1,
+            "property": "SPH",
+            "total_room_in_hotel": 744,
+            "room_revenue": "234,458.70",
+            "f_b_revenue": "609,316.22",
+            "other_revenue": "51,547.30",
+            "total_revenue": "895,322.22",
+            "occ": 22.80,
+            "createdAt": "2024-02-26T14:26:06.546Z",
+            "updatedAt": "2024-03-21T04:11:40.436Z"
+        },
+        {
+            "key": 2,
+            "id": 2,
+            "property": "PP02",
+            "total_room_in_hotel": 788,
+            "room_revenue": "250,458.70",
+            "f_b_revenue": "600,000.00",
+            "other_revenue": "51,547.30",
+            "total_revenue": "902,794.00",
+            "occ": 22.80,
+            "createdAt": "2024-02-26T14:26:06.546Z",
+            "updatedAt": "2024-03-21T04:11:40.436Z"
+        },
+        {
+            "key": 3,
+            "id": 3,
+            "property": "SR01",
+            "total_room_in_hotel": 788,
+            "room_revenue": "250,458.70",
+            "f_b_revenue": "600,000.00",
+            "other_revenue": "51,547.30",
+            "total_revenue": "902,794.00",
+            "occ": 22.80,
+            "createdAt": "2024-02-26T14:26:06.546Z",
+            "updatedAt": "2024-03-21T04:11:40.436Z"
+        },
+        {
+            "key": 4,
+            "id": 4,
+            "property": "SR02",
+            "total_room_in_hotel": 744,
+            "room_revenue": "234,458.70",
+            "f_b_revenue": "609,316.22",
+            "other_revenue": "51,547.30",
+            "total_revenue": "895,322.22",
+            "occ": 22.80,
+            "createdAt": "2024-02-26T14:26:06.546Z",
+            "updatedAt": "2024-03-21T04:11:40.436Z"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "_id": "65dc9f7ed28b68d4c27def64",
+    "surname": "admin",
+    "name": "admin",
+    "birthDay": "1999-10-12T00:00:00.000Z",
+    "identity": "admin123",
+    "gender": "male",
+    "avatar": "https://tse3.mm.bing.net/th?id=OIP.yFaRQRu38C-JTYdoS31-bAHaHa&pid=Api&P=0",
+    "accuracy": true,
+    "password": "123456",
+    "createdAt": "2024-02-26T14:26:06.546Z",
+    "updatedAt": "2024-03-21T04:11:40.436Z",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWRjOWY3ZWQyOGI2OGQ0YzI3ZGVmNjQiLCJpYXQiOjE3MTA5OTQzMDAsImV4cCI6MTcxMDk5NzkwMH0.nxBx3JJ2LiRCIIzEKg7-JXxbuWNvC9tURohSM2lEVY8"
+}
